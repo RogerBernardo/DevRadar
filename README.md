@@ -5,8 +5,8 @@ O objetivo deste projeto é aproximar devs de mesma stack próximos a você! Par
 ## Screenshots
 
 ### Web
-[Print da versão web](print-web.png)
+![Print da versão web](print-web.png)
 
 
 ### Mobile
-[Print da versão mobile](print-mobile.jpg)
+![Print da versão mobile](print-mobile.jpg)
